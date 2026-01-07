@@ -1,0 +1,166 @@
+{
+    "idas_forge": {
+        "advancements/ancient_mines.json": {
+            "Ancient Mines": "Стародавні шахти",
+            "The Drums of the Deep Call...": "Барабани безодні кличуть..."
+        },
+        "advancements/apothecary_abode.json": {
+            "The Apothecary's Abode": "Обитель аптекаря",
+            "A vivid and magical yet twisted building among the trees...": "Яскрава та магічна, але покручена будівля серед дерев..."
+        },
+        "advancements/archmages_tower.json": {
+            "Archmage's Tower": "Вежа архімага",
+            "Can you conquer this treacherous magical tower?": "Чи зможете ви підкорити цю підступну магічну вежу?"
+        },
+        "advancements/bearclaw_inn.json": {
+            "The Bearclaw Inn": "Заїжджий двір «Ведмежа лапа»",
+            "An Inn for a Weary Traveler": "Притулок для втомленого мандрівника"
+        },
+        "advancements/castle.json": {
+            "Castle": "Замок",
+            "Fortress of the Villagers": "Фортеця селян"
+        },
+        "advancements/desert_pyramid.json": {
+            "The Desert Pyramid": "Пустельна піраміда",
+            "Brush around the pyramid, there may be something to uncover...": "Попрацюйте пензлем навколо піраміди, там може бути щось приховане..."
+        },
+        "advancements/dread_citadel.json": {
+            "Dread Citadel": "Цитадель жаху",
+            "The foreboding Citadel awaits...": "Зловісна цитадель чекає..."
+        },
+        "advancements/enchantingtower.json": {
+            "Enchanting Tower": "Вежа чарування",
+            "A Cleric's Tower": "Вежа священника"
+        },
+        "advancements/fishermans_lodge.json": {
+            "Fisherman's Lodge": "Будиночок рибалки",
+            "The Fisherman of the Lake": "Рибалка з озера"
+        },
+        "advancements/hunters_cabin.json": {
+            "Hunter's Cabin": "Хатина мисливця",
+            "The Huntsman of the Woods": "Лісовий мисливець"
+        },
+        "advancements/idas_root.json": {
+            "Integrated Dungeons and Structures": "Integrated Dungeons and Structures",
+            "Start exploring for structures!": "Почніть пошук нових споруд!"
+        },
+        "advancements/labyrinth.json": {
+            "Labyrinth of the Serpent": "Лабіринт Змія",
+            "May the fates be on your side...": "Нехай доля буде на вашому боці..."
+        },
+        "advancements/necromancers_spire.json": {
+            "The Necromancer's Spire": "Шпиль некроманта",
+            "A Chilling Evil Lurks Within...": "Всередині зачаїлося крижане зло..."
+        },
+        "advancements/nexus.json": {
+            "The Nexus": "Нексус",
+            "The Gateway to Multiple Realities": "Брама до багатьох реальностей"
+        },
+        "advancements/pillager_fortress.json": {
+            "Pillager Fortress": "Фортеця розбійників",
+            "Pillage the Illage Away": "Розграбуй поселення вщент"
+        },
+        "advancements/redhorn_guild.json": {
+            "The Redhorn Guild": "Гільдія Червоного Рогу",
+            "A Refuge and Training Grounds": "Притулок та тренувальний майданчик"
+        },
+        "advancements/ruins_of_the_deep.json": {
+            "Ruins of the Deep": "Руїни безодні",
+            "Do you dare to travel to the depths?": "Чи наважитеся ви спуститися в глибини?"
+        },
+        "advancements/sunken_ship.json": {
+            "A Sunken Ship": "Затонулий корабель",
+            "A Captain Always Goes Down With Their Ship...": "Капітан завжди йде на дно разом зі своїм кораблем..."
+        },
+        "advancements/tinkers_citadel.json": {
+            "Tinker's Citadel": "Цитадель механіка",
+            "A safe haven for Tinker's of all cogs and casings": "Безпечна гавань для майстрів усіх шестерень та корпусів"
+        },
+        "advancements/tinkers_workshop.json": {
+            "Tinker's Workshop": "Майстерня механіка",
+            "Become the latest test subject of the Tinker...": "Станьте черговим піддослідним механіка..."
+        },
+        "advancements/winter_wagon.json": {
+            "Winter Wagon": "Зимовий фургон",
+            "A Festive Travelling Wagon": "Святковий мандрівний фургон"
+        },
+        "advancements/witches_treestump.json": {
+            "A Witch's Stump": "Відьмин пень",
+            "A place of dark magic in the woods": "Місце темної магії в лісі"
+        },
+        "advancements/wizardtower.json": {
+            "Wizard Tower": "Вежа чарівника",
+            "A Mage's Spire": "Шпиль мага"
+        }
+    },
+    "totw_modded": {
+        "advancements/derelict_grass_tower.json": {
+            "A trip to the Countryside": "Поїздка за місто",
+            "Find a Ancient Tower in the Woods or out in the Fields": "Знайдіть стародавню вежу в лісі або в полі"
+        },
+        "advancements/derelict_tower.json": {
+            "I found it like this...": "Я знайшов її вже такою...",
+            "Find a Ancient Tower": "Знайдіть стародавню вежу"
+        },
+        "advancements/ice_tower.json": {
+            "Brrrrrr": "Бр-р-р-р",
+            "Find a Icy Tower": "Знайдіть крижану вежу"
+        },
+        "advancements/jungle_tower.json": {
+            "BANANAS?": "БАНАНИ?",
+            "Find a Tower in the Jungle": "Знайдіть вежу в джунглях"
+        },
+        "advancements/regular_tower.json": {
+            "A breath of fresh air": "Ковток свіжого повітря",
+            "Fine...but how do I get up there?": "Добре... але як мені туди піднятися?"
+        },
+        "advancements/root.json": {
+            "Towers of the Wild: Modded": "Towers of the Wild: Modded",
+            "Will you climb all of the towers and activate the link?": "Чи зможете ви піднятися на всі вежі та активувати зв'язок?"
+        }
+    },
+    "YungsBetterDesertTemples": {
+        "advancements/root.json": {
+            "YUNG's Better Desert Temples": "Кращі пустельні храми YUNG",
+            "Somewhere deep in the desert...": "Десь глибоко в пустелі..."
+        },
+        "advancements/temple_clear.json": {
+            "Eternal Slumber": "Вічний сон",
+            "Slay the Pharaoh and free the Temple from his curse": "Убийте фараона та звільніть храм від його прокляття"
+        },
+        "advancements/temple_entry.json": {
+            "An Ancient Tomb": "Стародавня гробниця",
+            "Discover a Better Desert Temple": "Знайдіть покращений пустельний храм"
+        }
+    },
+    "YungsBetterDungeons": {
+        "advancements/all_dungeons.json": {
+            "Professional Dungeoneer": "Професійний дослідник підземель",
+            "Explore all of the Better Dungeons!": "Дослідіть усі покращені підземелля!"
+        },
+        "advancements/root.json": {
+            "YUNG's Better Dungeons": "Кращі підземелля YUNG",
+            "Adventure awaits...": "Пригоди чекають..."
+        },
+        "advancements/skeleton_dungeon.json": {
+            "A Bone to Pick": "Мати зуб на когось",
+            "Enter a Fortress of the Undead": "Увійдіть у фортецю нежиті"
+        },
+        "advancements/small_dungeon.json": {
+            "Quite the Renovation": "Чимала реновація",
+            "Find an upgraded Monster Room": "Знайдіть оновлену кімнату з монстрами"
+        },
+        "advancements/small_nether_dungeon.json": {
+            "A Special Addition": "Особливе доповнення",
+            "Find a Small Nether Dungeon": "Знайдіть маленьке підземелля Незеру"
+        },
+        "advancements/spider_dungeon.json": {
+            "Cobweb Entanglement": "Заплутані в павутині",
+            "Discover a Spider Cave": "Знайдіть печеру павуків"
+        },
+        "advancements/zombie_dungeon.json": {
+            "When in Rome": "У чужий монастир...",
+            "Set foot in a Catacomb": "Ступіть у катакомби"
+        }
+    }
+}
